@@ -1,0 +1,15 @@
+C:\C#\AtmPinValidation\AtmPinValidation\bin\Debug\net10.0\AtmPinValidation.exe
+C:\C#\AtmPinValidation\AtmPinValidation\bin\Debug\net10.0\AtmPinValidation.deps.json
+C:\C#\AtmPinValidation\AtmPinValidation\bin\Debug\net10.0\AtmPinValidation.runtimeconfig.json
+C:\C#\AtmPinValidation\AtmPinValidation\bin\Debug\net10.0\AtmPinValidation.dll
+C:\C#\AtmPinValidation\AtmPinValidation\bin\Debug\net10.0\AtmPinValidation.pdb
+C:\C#\AtmPinValidation\AtmPinValidation\obj\Debug\net10.0\AtmPinValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\AtmPinValidation\AtmPinValidation\obj\Debug\net10.0\AtmPinValidation.AssemblyInfoInputs.cache
+C:\C#\AtmPinValidation\AtmPinValidation\obj\Debug\net10.0\AtmPinValidation.AssemblyInfo.cs
+C:\C#\AtmPinValidation\AtmPinValidation\obj\Debug\net10.0\AtmPinValidation.csproj.CoreCompileInputs.cache
+C:\C#\AtmPinValidation\AtmPinValidation\obj\Debug\net10.0\AtmPinValidation.sourcelink.json
+C:\C#\AtmPinValidation\AtmPinValidation\obj\Debug\net10.0\AtmPinValidation.dll
+C:\C#\AtmPinValidation\AtmPinValidation\obj\Debug\net10.0\refint\AtmPinValidation.dll
+C:\C#\AtmPinValidation\AtmPinValidation\obj\Debug\net10.0\AtmPinValidation.pdb
+C:\C#\AtmPinValidation\AtmPinValidation\obj\Debug\net10.0\AtmPinValidation.genruntimeconfig.cache
+C:\C#\AtmPinValidation\AtmPinValidation\obj\Debug\net10.0\ref\AtmPinValidation.dll

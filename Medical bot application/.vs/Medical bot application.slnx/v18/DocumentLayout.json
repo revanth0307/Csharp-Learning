@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\C#\\Medical bot application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9806D7C9-CED4-4E89-AB60-2749C525D2A9}|Medical bot application\\Medical bot application.csproj|c:\\c#\\medical bot application\\medical bot application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9806D7C9-CED4-4E89-AB60-2749C525D2A9}|Medical bot application\\Medical bot application.csproj|solutionrelative:medical bot application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6B4A846-9907-626B-BFDD-CF9A613F7723}|Medical bot application\\Medical bot application.csproj|c:\\c#\\medical bot application\\medical bot application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B4A846-9907-626B-BFDD-CF9A613F7723}|Medical bot application\\Medical bot application.csproj|solutionrelative:medical bot application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9806D7C9-CED4-4E89-AB60-2749C525D2A9}|Medical bot application\\Medical bot application.csproj|c:\\c#\\medical bot application\\medical bot application\\medical bot application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{9806D7C9-CED4-4E89-AB60-2749C525D2A9}|Medical bot application\\Medical bot application.csproj|solutionrelative:medical bot application\\medical bot application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFFC4EB7-A7AF-4880-810D-D4DBC367225B}|Patient\\Patient.csproj|c:\\c#\\medical bot application\\patient\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFFC4EB7-A7AF-4880-810D-D4DBC367225B}|Patient\\Patient.csproj|solutionrelative:patient\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6E9F1F4-6C16-E395-55CE-72AE31132446}|Patient\\Patient.csproj|c:\\c#\\medical bot application\\patient\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9F1F4-6C16-E395-55CE-72AE31132446}|Patient\\Patient.csproj|solutionrelative:patient\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,26 +21,18 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Medical bot application",
-              "DocumentMoniker": "C:\\C#\\Medical bot application\\Medical bot application\\Medical bot application.csproj",
-              "RelativeDocumentMoniker": "Medical bot application\\Medical bot application.csproj",
-              "ToolTip": "C:\\C#\\Medical bot application\\Medical bot application\\Medical bot application.csproj",
-              "RelativeToolTip": "Medical bot application\\Medical bot application.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-04T12:27:33.749Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\C#\\Medical bot application\\Patient\\Class1.cs",
               "RelativeDocumentMoniker": "Patient\\Class1.cs",
               "ToolTip": "C:\\C#\\Medical bot application\\Patient\\Class1.cs",
               "RelativeToolTip": "Patient\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T11:30:46.65Z",
               "EditorCaption": ""
@@ -57,7 +45,7 @@
               "RelativeDocumentMoniker": "Medical bot application\\Program.cs",
               "ToolTip": "C:\\C#\\Medical bot application\\Medical bot application\\Program.cs",
               "RelativeToolTip": "Medical bot application\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCIAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T09:51:11.227Z",
               "EditorCaption": ""
