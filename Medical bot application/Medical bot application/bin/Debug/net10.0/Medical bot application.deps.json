@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Medical bot application/1.0.0": {
+        "dependencies": {
+          "MedicalBot": "1.0.0",
+          "Patient": "1.0.0"
+        },
+        "runtime": {
+          "Medical bot application.dll": {}
+        }
+      },
+      "MedicalBot/1.0.0": {
+        "dependencies": {
+          "Patient": "1.0.0"
+        },
+        "runtime": {
+          "MedicalBot.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Patient/1.0.0": {
+        "runtime": {
+          "Patient.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Medical bot application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MedicalBot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Patient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

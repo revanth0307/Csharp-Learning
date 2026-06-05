@@ -1,0 +1,11 @@
+C:\C#\Medical bot application\Patient\obj\Debug\net10.0\Patient.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Medical bot application\Patient\obj\Debug\net10.0\Patient.AssemblyInfoInputs.cache
+C:\C#\Medical bot application\Patient\obj\Debug\net10.0\Patient.AssemblyInfo.cs
+C:\C#\Medical bot application\Patient\obj\Debug\net10.0\Patient.csproj.CoreCompileInputs.cache
+C:\C#\Medical bot application\Patient\bin\Debug\net10.0\Patient.deps.json
+C:\C#\Medical bot application\Patient\bin\Debug\net10.0\Patient.dll
+C:\C#\Medical bot application\Patient\bin\Debug\net10.0\Patient.pdb
+C:\C#\Medical bot application\Patient\obj\Debug\net10.0\Patient.dll
+C:\C#\Medical bot application\Patient\obj\Debug\net10.0\refint\Patient.dll
+C:\C#\Medical bot application\Patient\obj\Debug\net10.0\Patient.pdb
+C:\C#\Medical bot application\Patient\obj\Debug\net10.0\ref\Patient.dll

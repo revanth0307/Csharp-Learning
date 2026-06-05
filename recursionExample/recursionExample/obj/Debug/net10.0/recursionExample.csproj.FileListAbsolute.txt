@@ -1,0 +1,14 @@
+C:\C#\recursionExample\recursionExample\obj\Debug\net10.0\recursionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\recursionExample\recursionExample\obj\Debug\net10.0\recursionExample.AssemblyInfoInputs.cache
+C:\C#\recursionExample\recursionExample\obj\Debug\net10.0\recursionExample.AssemblyInfo.cs
+C:\C#\recursionExample\recursionExample\obj\Debug\net10.0\recursionExample.csproj.CoreCompileInputs.cache
+C:\C#\recursionExample\recursionExample\bin\Debug\net10.0\recursionExample.exe
+C:\C#\recursionExample\recursionExample\bin\Debug\net10.0\recursionExample.deps.json
+C:\C#\recursionExample\recursionExample\bin\Debug\net10.0\recursionExample.runtimeconfig.json
+C:\C#\recursionExample\recursionExample\bin\Debug\net10.0\recursionExample.dll
+C:\C#\recursionExample\recursionExample\bin\Debug\net10.0\recursionExample.pdb
+C:\C#\recursionExample\recursionExample\obj\Debug\net10.0\recursionExample.dll
+C:\C#\recursionExample\recursionExample\obj\Debug\net10.0\refint\recursionExample.dll
+C:\C#\recursionExample\recursionExample\obj\Debug\net10.0\recursionExample.pdb
+C:\C#\recursionExample\recursionExample\obj\Debug\net10.0\recursionExample.genruntimeconfig.cache
+C:\C#\recursionExample\recursionExample\obj\Debug\net10.0\ref\recursionExample.dll

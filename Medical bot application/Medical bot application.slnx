@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Medical bot application/Medical bot application.csproj" />
+  <Project Path="MedicalBot/MedicalBot.csproj" />
+  <Project Path="Patient/Patient.csproj" />
+</Solution>

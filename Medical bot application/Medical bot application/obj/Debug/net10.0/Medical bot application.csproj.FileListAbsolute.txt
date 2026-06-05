@@ -1,0 +1,20 @@
+C:\C#\Medical bot application\Medical bot application\obj\Debug\net10.0\Medical bot application.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Medical bot application\Medical bot application\obj\Debug\net10.0\Medical bot application.AssemblyInfoInputs.cache
+C:\C#\Medical bot application\Medical bot application\obj\Debug\net10.0\Medical bot application.AssemblyInfo.cs
+C:\C#\Medical bot application\Medical bot application\obj\Debug\net10.0\Medical bot application.csproj.CoreCompileInputs.cache
+C:\C#\Medical bot application\Medical bot application\obj\Debug\net10.0\Medical bot application.csproj.AssemblyReference.cache
+C:\C#\Medical bot application\Medical bot application\bin\Debug\net10.0\Medical bot application.exe
+C:\C#\Medical bot application\Medical bot application\bin\Debug\net10.0\Medical bot application.deps.json
+C:\C#\Medical bot application\Medical bot application\bin\Debug\net10.0\Medical bot application.runtimeconfig.json
+C:\C#\Medical bot application\Medical bot application\bin\Debug\net10.0\Medical bot application.dll
+C:\C#\Medical bot application\Medical bot application\bin\Debug\net10.0\Medical bot application.pdb
+C:\C#\Medical bot application\Medical bot application\bin\Debug\net10.0\MedicalBot.dll
+C:\C#\Medical bot application\Medical bot application\bin\Debug\net10.0\Patient.dll
+C:\C#\Medical bot application\Medical bot application\bin\Debug\net10.0\MedicalBot.pdb
+C:\C#\Medical bot application\Medical bot application\bin\Debug\net10.0\Patient.pdb
+C:\C#\Medical bot application\Medical bot application\obj\Debug\net10.0\Medical .164B5454.Up2Date
+C:\C#\Medical bot application\Medical bot application\obj\Debug\net10.0\Medical bot application.dll
+C:\C#\Medical bot application\Medical bot application\obj\Debug\net10.0\refint\Medical bot application.dll
+C:\C#\Medical bot application\Medical bot application\obj\Debug\net10.0\Medical bot application.pdb
+C:\C#\Medical bot application\Medical bot application\obj\Debug\net10.0\Medical bot application.genruntimeconfig.cache
+C:\C#\Medical bot application\Medical bot application\obj\Debug\net10.0\ref\Medical bot application.dll

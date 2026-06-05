@@ -1,0 +1,15 @@
+C:\C#\Medical bot application\MedicalBot\obj\Debug\net10.0\MedicalBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Medical bot application\MedicalBot\obj\Debug\net10.0\MedicalBot.AssemblyInfoInputs.cache
+C:\C#\Medical bot application\MedicalBot\obj\Debug\net10.0\MedicalBot.AssemblyInfo.cs
+C:\C#\Medical bot application\MedicalBot\obj\Debug\net10.0\MedicalBot.csproj.CoreCompileInputs.cache
+C:\C#\Medical bot application\MedicalBot\obj\Debug\net10.0\MedicalBot.csproj.AssemblyReference.cache
+C:\C#\Medical bot application\MedicalBot\bin\Debug\net10.0\MedicalBot.deps.json
+C:\C#\Medical bot application\MedicalBot\bin\Debug\net10.0\MedicalBot.dll
+C:\C#\Medical bot application\MedicalBot\bin\Debug\net10.0\MedicalBot.pdb
+C:\C#\Medical bot application\MedicalBot\bin\Debug\net10.0\Patient.dll
+C:\C#\Medical bot application\MedicalBot\bin\Debug\net10.0\Patient.pdb
+C:\C#\Medical bot application\MedicalBot\obj\Debug\net10.0\MedicalBot.csproj.Up2Date
+C:\C#\Medical bot application\MedicalBot\obj\Debug\net10.0\MedicalBot.dll
+C:\C#\Medical bot application\MedicalBot\obj\Debug\net10.0\refint\MedicalBot.dll
+C:\C#\Medical bot application\MedicalBot\obj\Debug\net10.0\MedicalBot.pdb
+C:\C#\Medical bot application\MedicalBot\obj\Debug\net10.0\ref\MedicalBot.dll

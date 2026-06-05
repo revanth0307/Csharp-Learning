@@ -1,0 +1,14 @@
+C:\C#\refReturnExample\refReturnExample\bin\Debug\net10.0\refReturnExample.deps.json
+C:\C#\refReturnExample\refReturnExample\bin\Debug\net10.0\refReturnExample.dll
+C:\C#\refReturnExample\refReturnExample\bin\Debug\net10.0\refReturnExample.pdb
+C:\C#\refReturnExample\refReturnExample\obj\Debug\net10.0\refReturnExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\refReturnExample\refReturnExample\obj\Debug\net10.0\refReturnExample.AssemblyInfoInputs.cache
+C:\C#\refReturnExample\refReturnExample\obj\Debug\net10.0\refReturnExample.AssemblyInfo.cs
+C:\C#\refReturnExample\refReturnExample\obj\Debug\net10.0\refReturnExample.csproj.CoreCompileInputs.cache
+C:\C#\refReturnExample\refReturnExample\obj\Debug\net10.0\refReturnExample.dll
+C:\C#\refReturnExample\refReturnExample\obj\Debug\net10.0\refint\refReturnExample.dll
+C:\C#\refReturnExample\refReturnExample\obj\Debug\net10.0\refReturnExample.pdb
+C:\C#\refReturnExample\refReturnExample\obj\Debug\net10.0\ref\refReturnExample.dll
+C:\C#\refReturnExample\refReturnExample\bin\Debug\net10.0\refReturnExample.exe
+C:\C#\refReturnExample\refReturnExample\bin\Debug\net10.0\refReturnExample.runtimeconfig.json
+C:\C#\refReturnExample\refReturnExample\obj\Debug\net10.0\refReturnExample.genruntimeconfig.cache
