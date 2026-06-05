@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\QuizApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA517695-3096-4329-97B8-C76517700F42}|QuizApplication\\QuizApplication.csproj|c:\\c#\\quizapplication\\quizapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA517695-3096-4329-97B8-C76517700F42}|QuizApplication\\QuizApplication.csproj|solutionrelative:quizapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\QuizApplication\\QuizApplication\\Program.cs",
+              "RelativeDocumentMoniker": "QuizApplication\\Program.cs",
+              "ToolTip": "C:\\C#\\QuizApplication\\QuizApplication\\Program.cs",
+              "RelativeToolTip": "QuizApplication\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAArwHAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T12:03:38.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\C#\QuizApplication\QuizApplication\obj\Debug\net10.0\QuizApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\QuizApplication\QuizApplication\obj\Debug\net10.0\QuizApplication.AssemblyInfoInputs.cache
+C:\C#\QuizApplication\QuizApplication\obj\Debug\net10.0\QuizApplication.AssemblyInfo.cs
+C:\C#\QuizApplication\QuizApplication\obj\Debug\net10.0\QuizApplication.csproj.CoreCompileInputs.cache
+C:\C#\QuizApplication\QuizApplication\obj\Debug\net10.0\QuizApplication.sourcelink.json
+C:\C#\QuizApplication\QuizApplication\bin\Debug\net10.0\QuizApplication.exe
+C:\C#\QuizApplication\QuizApplication\bin\Debug\net10.0\QuizApplication.deps.json
+C:\C#\QuizApplication\QuizApplication\bin\Debug\net10.0\QuizApplication.runtimeconfig.json
+C:\C#\QuizApplication\QuizApplication\bin\Debug\net10.0\QuizApplication.dll
+C:\C#\QuizApplication\QuizApplication\bin\Debug\net10.0\QuizApplication.pdb
+C:\C#\QuizApplication\QuizApplication\obj\Debug\net10.0\QuizApplication.dll
+C:\C#\QuizApplication\QuizApplication\obj\Debug\net10.0\refint\QuizApplication.dll
+C:\C#\QuizApplication\QuizApplication\obj\Debug\net10.0\QuizApplication.pdb
+C:\C#\QuizApplication\QuizApplication\obj\Debug\net10.0\QuizApplication.genruntimeconfig.cache
+C:\C#\QuizApplication\QuizApplication\obj\Debug\net10.0\ref\QuizApplication.dll

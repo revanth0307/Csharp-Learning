@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\C#\\InheritanceExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA56A226-A153-4469-8B0D-70BDD652299F}|InheritanceExample\\InheritanceExample.csproj|c:\\c#\\inheritanceexample\\inheritanceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA56A226-A153-4469-8B0D-70BDD652299F}|InheritanceExample\\InheritanceExample.csproj|solutionrelative:inheritanceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEC5E929-1A12-93F9-CB31-F4268EDBD6CF}|InheritanceExample\\InheritanceExample.csproj|c:\\c#\\inheritanceexample\\inheritanceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC5E929-1A12-93F9-CB31-F4268EDBD6CF}|InheritanceExample\\InheritanceExample.csproj|solutionrelative:inheritanceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5213F8-8A78-4583-B8CA-F75F63F27224}|ClassLibrary1\\ClassLibrary1.csproj|c:\\c#\\inheritanceexample\\classlibrary1\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5213F8-8A78-4583-B8CA-F75F63F27224}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EE04B70-CCE4-25F9-223F-5D91A0591A93}|ClassLibrary1\\ClassLibrary1.csproj|c:\\c#\\inheritanceexample\\classlibrary1\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE04B70-CCE4-25F9-223F-5D91A0591A93}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5213F8-8A78-4583-B8CA-F75F63F27224}|ClassLibrary1\\ClassLibrary1.csproj|c:\\c#\\inheritanceexample\\classlibrary1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5213F8-8A78-4583-B8CA-F75F63F27224}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EE04B70-CCE4-25F9-223F-5D91A0591A93}|ClassLibrary1\\ClassLibrary1.csproj|c:\\c#\\inheritanceexample\\classlibrary1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE04B70-CCE4-25F9-223F-5D91A0591A93}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5213F8-8A78-4583-B8CA-F75F63F27224}|ClassLibrary1\\ClassLibrary1.csproj|c:\\c#\\inheritanceexample\\classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5213F8-8A78-4583-B8CA-F75F63F27224}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EE04B70-CCE4-25F9-223F-5D91A0591A93}|ClassLibrary1\\ClassLibrary1.csproj|c:\\c#\\inheritanceexample\\classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE04B70-CCE4-25F9-223F-5D91A0591A93}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,7 @@
               "RelativeToolTip": "ClassLibrary1\\SalesMan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T07:03:32.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T07:03:32.087Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "ClassLibrary1\\Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T07:03:05.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T07:03:05.658Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "ClassLibrary1\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T07:01:20.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T07:01:20.145Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "InheritanceExample\\Program.cs",
               "ToolTip": "C:\\C#\\InheritanceExample\\InheritanceExample\\Program.cs",
               "RelativeToolTip": "InheritanceExample\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-05T07:00:40.104Z",
               "EditorCaption": ""
