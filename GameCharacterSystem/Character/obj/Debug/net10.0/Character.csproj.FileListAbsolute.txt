@@ -1,0 +1,12 @@
+C:\C#\GameCharacterSystem\Character\bin\Debug\net10.0\Character.deps.json
+C:\C#\GameCharacterSystem\Character\bin\Debug\net10.0\Character.dll
+C:\C#\GameCharacterSystem\Character\bin\Debug\net10.0\Character.pdb
+C:\C#\GameCharacterSystem\Character\obj\Debug\net10.0\Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\GameCharacterSystem\Character\obj\Debug\net10.0\Character.AssemblyInfoInputs.cache
+C:\C#\GameCharacterSystem\Character\obj\Debug\net10.0\Character.AssemblyInfo.cs
+C:\C#\GameCharacterSystem\Character\obj\Debug\net10.0\Character.csproj.CoreCompileInputs.cache
+C:\C#\GameCharacterSystem\Character\obj\Debug\net10.0\Character.sourcelink.json
+C:\C#\GameCharacterSystem\Character\obj\Debug\net10.0\Character.dll
+C:\C#\GameCharacterSystem\Character\obj\Debug\net10.0\refint\Character.dll
+C:\C#\GameCharacterSystem\Character\obj\Debug\net10.0\Character.pdb
+C:\C#\GameCharacterSystem\Character\obj\Debug\net10.0\ref\Character.dll

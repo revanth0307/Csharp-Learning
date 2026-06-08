@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\C#\\ConsoleApp3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBF89DF7-ED64-4165-B699-7514D1BBFE05}|ConsoleApp3\\ConsoleApp3.csproj|c:\\c#\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBF89DF7-ED64-4165-B699-7514D1BBFE05}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|c:\\c#\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCB2229B-EA25-4CF4-A6EE-A19220987925}|ClassLibrary1\\ClassLibrary1.csproj|c:\\c#\\consoleapp3\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCB2229B-EA25-4CF4-A6EE-A19220987925}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|c:\\c#\\consoleapp3\\consoleapp3\\consoleapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\consoleapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBF89DF7-ED64-4165-B699-7514D1BBFE05}|ConsoleApp3\\ConsoleApp3.csproj|c:\\c#\\consoleapp3\\consoleapp3\\consoleapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BBF89DF7-ED64-4165-B699-7514D1BBFE05}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\consoleapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9EE04B70-CCE4-25F9-223F-5D91A0591A93}|ClassLibrary1\\ClassLibrary1.csproj|c:\\c#\\consoleapp3\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE04B70-CCE4-25F9-223F-5D91A0591A93}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +22,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConsoleApp3",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp3.csproj",
               "DocumentMoniker": "C:\\C#\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
               "RelativeDocumentMoniker": "ConsoleApp3\\ConsoleApp3.csproj",
               "ToolTip": "C:\\C#\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
               "RelativeToolTip": "ConsoleApp3\\ConsoleApp3.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-08T09:28:12.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T09:28:12.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\C#\\ConsoleApp3\\ClassLibrary1\\Class1.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
@@ -51,8 +46,7 @@
               "RelativeToolTip": "ClassLibrary1\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T09:28:25.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T09:28:25.231Z"
             },
             {
               "$type": "Document",
@@ -62,10 +56,14 @@
               "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
               "ToolTip": "C:\\C#\\ConsoleApp3\\ConsoleApp3\\Program.cs",
               "RelativeToolTip": "ConsoleApp3\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-08T09:27:29.576Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

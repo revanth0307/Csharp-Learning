@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Character/Character.csproj" />
+  <Project Path="GameCharacterSystem/GameCharacterSystem.csproj" />
+</Solution>
