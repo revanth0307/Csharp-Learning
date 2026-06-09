@@ -1,0 +1,15 @@
+C:\C#\NewsArticleApp\NewsArticleApp\bin\Debug\net10.0\NewsArticleApp.exe
+C:\C#\NewsArticleApp\NewsArticleApp\bin\Debug\net10.0\NewsArticleApp.deps.json
+C:\C#\NewsArticleApp\NewsArticleApp\bin\Debug\net10.0\NewsArticleApp.runtimeconfig.json
+C:\C#\NewsArticleApp\NewsArticleApp\bin\Debug\net10.0\NewsArticleApp.dll
+C:\C#\NewsArticleApp\NewsArticleApp\bin\Debug\net10.0\NewsArticleApp.pdb
+C:\C#\NewsArticleApp\NewsArticleApp\obj\Debug\net10.0\NewsArticleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\NewsArticleApp\NewsArticleApp\obj\Debug\net10.0\NewsArticleApp.AssemblyInfoInputs.cache
+C:\C#\NewsArticleApp\NewsArticleApp\obj\Debug\net10.0\NewsArticleApp.AssemblyInfo.cs
+C:\C#\NewsArticleApp\NewsArticleApp\obj\Debug\net10.0\NewsArticleApp.csproj.CoreCompileInputs.cache
+C:\C#\NewsArticleApp\NewsArticleApp\obj\Debug\net10.0\NewsArticleApp.sourcelink.json
+C:\C#\NewsArticleApp\NewsArticleApp\obj\Debug\net10.0\NewsArticleApp.dll
+C:\C#\NewsArticleApp\NewsArticleApp\obj\Debug\net10.0\refint\NewsArticleApp.dll
+C:\C#\NewsArticleApp\NewsArticleApp\obj\Debug\net10.0\NewsArticleApp.pdb
+C:\C#\NewsArticleApp\NewsArticleApp\obj\Debug\net10.0\NewsArticleApp.genruntimeconfig.cache
+C:\C#\NewsArticleApp\NewsArticleApp\obj\Debug\net10.0\ref\NewsArticleApp.dll
