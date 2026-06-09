@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\C#\\GameCharacterSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A261B3DB-2C8A-4D82-8082-F5CD0BA57BDD}|GameCharacterSystem\\GameCharacterSystem.csproj|c:\\c#\\gamecharactersystem\\gamecharactersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A261B3DB-2C8A-4D82-8082-F5CD0BA57BDD}|GameCharacterSystem\\GameCharacterSystem.csproj|solutionrelative:gamecharactersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39429295-5474-A3F5-A497-A302D86DA002}|Character\\Character.csproj|c:\\c#\\gamecharactersystem\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39429295-5474-A3F5-A497-A302D86DA002}|Character\\Character.csproj|solutionrelative:character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF2496B-77D1-4627-87A3-466A59458AC4}|Character\\Character.csproj|c:\\c#\\gamecharactersystem\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF2496B-77D1-4627-87A3-466A59458AC4}|Character\\Character.csproj|solutionrelative:character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C735A311-5563-F541-7226-A4BD95598326}|GameCharacterSystem\\GameCharacterSystem.csproj|c:\\c#\\gamecharactersystem\\gamecharactersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C735A311-5563-F541-7226-A4BD95598326}|GameCharacterSystem\\GameCharacterSystem.csproj|solutionrelative:gamecharactersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\C#\\GameCharacterSystem\\Character\\Character.cs",
               "RelativeDocumentMoniker": "Character\\Character.cs",
               "ToolTip": "C:\\C#\\GameCharacterSystem\\Character\\Character.cs",
               "RelativeToolTip": "Character\\Character.cs",
-              "ViewState": "AgIAAJsAAAAAAAAAAAAuwJgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-08T11:57:36.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\C#\\GameCharacterSystem\\GameCharacterSystem\\Program.cs",
               "RelativeDocumentMoniker": "GameCharacterSystem\\Program.cs",
               "ToolTip": "C:\\C#\\GameCharacterSystem\\GameCharacterSystem\\Program.cs",
               "RelativeToolTip": "GameCharacterSystem\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-08T11:57:08.707Z",
               "EditorCaption": ""

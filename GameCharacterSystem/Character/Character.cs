@@ -100,7 +100,7 @@ namespace Character
             }
         }
 
-        public sealed override void Defend()   // sealed = no child class can override this
+        public sealed override void Defend() 
         {
             Console.WriteLine($"{this._name} cannot defend!");
         }
