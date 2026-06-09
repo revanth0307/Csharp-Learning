@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\LibraryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F90698B-D0D5-4E5C-BD4B-CA3F0483F96A}|LibraryApp\\LibraryApp.csproj|c:\\c#\\libraryapp\\libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F90698B-D0D5-4E5C-BD4B-CA3F0483F96A}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB7F808-DF1B-47B9-AD09-4486D422F377}|LibraryModels\\LibraryModels.csproj|c:\\c#\\libraryapp\\librarymodels\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB7F808-DF1B-47B9-AD09-4486D422F377}|LibraryModels\\LibraryModels.csproj|solutionrelative:librarymodels\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB7F808-DF1B-47B9-AD09-4486D422F377}|LibraryModels\\LibraryModels.csproj|c:\\c#\\libraryapp\\librarymodels\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB7F808-DF1B-47B9-AD09-4486D422F377}|LibraryModels\\LibraryModels.csproj|solutionrelative:librarymodels\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB7F808-DF1B-47B9-AD09-4486D422F377}|LibraryModels\\LibraryModels.csproj|c:\\c#\\libraryapp\\librarymodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB7F808-DF1B-47B9-AD09-4486D422F377}|LibraryModels\\LibraryModels.csproj|solutionrelative:librarymodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB7F808-DF1B-47B9-AD09-4486D422F377}|LibraryModels\\LibraryModels.csproj|c:\\c#\\libraryapp\\librarymodels\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB7F808-DF1B-47B9-AD09-4486D422F377}|LibraryModels\\LibraryModels.csproj|solutionrelative:librarymodels\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB7F808-DF1B-47B9-AD09-4486D422F377}|LibraryModels\\LibraryModels.csproj|c:\\c#\\libraryapp\\librarymodels\\iloanable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB7F808-DF1B-47B9-AD09-4486D422F377}|LibraryModels\\LibraryModels.csproj|solutionrelative:librarymodels\\iloanable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\C#\\LibraryApp\\LibraryModels\\DVD.cs",
+              "RelativeDocumentMoniker": "LibraryModels\\DVD.cs",
+              "ToolTip": "C:\\C#\\LibraryApp\\LibraryModels\\DVD.cs",
+              "RelativeToolTip": "LibraryModels\\DVD.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAzwEwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:07:25.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CD.cs",
+              "DocumentMoniker": "C:\\C#\\LibraryApp\\LibraryModels\\CD.cs",
+              "RelativeDocumentMoniker": "LibraryModels\\CD.cs",
+              "ToolTip": "C:\\C#\\LibraryApp\\LibraryModels\\CD.cs",
+              "RelativeToolTip": "LibraryModels\\CD.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwD4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:16:04.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\C#\\LibraryApp\\LibraryModels\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryModels\\Book.cs",
+              "ToolTip": "C:\\C#\\LibraryApp\\LibraryModels\\Book.cs",
+              "RelativeToolTip": "LibraryModels\\Book.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:35:41.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\C#\\LibraryApp\\LibraryModels\\IPrintable.cs",
+              "RelativeDocumentMoniker": "LibraryModels\\IPrintable.cs",
+              "ToolTip": "C:\\C#\\LibraryApp\\LibraryModels\\IPrintable.cs",
+              "RelativeToolTip": "LibraryModels\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:33:32.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoanable.cs",
+              "DocumentMoniker": "C:\\C#\\LibraryApp\\LibraryModels\\ILoanable.cs",
+              "RelativeDocumentMoniker": "LibraryModels\\ILoanable.cs",
+              "ToolTip": "C:\\C#\\LibraryApp\\LibraryModels\\ILoanable.cs",
+              "RelativeToolTip": "LibraryModels\\ILoanable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:26:43.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\LibraryApp\\LibraryApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Program.cs",
+              "ToolTip": "C:\\C#\\LibraryApp\\LibraryApp\\Program.cs",
+              "RelativeToolTip": "LibraryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:24:39.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\C#\LibraryApp\LibraryModels\bin\Debug\net10.0\LibraryModels.deps.json
+C:\C#\LibraryApp\LibraryModels\bin\Debug\net10.0\LibraryModels.dll
+C:\C#\LibraryApp\LibraryModels\bin\Debug\net10.0\LibraryModels.pdb
+C:\C#\LibraryApp\LibraryModels\obj\Debug\net10.0\LibraryModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LibraryApp\LibraryModels\obj\Debug\net10.0\LibraryModels.AssemblyInfoInputs.cache
+C:\C#\LibraryApp\LibraryModels\obj\Debug\net10.0\LibraryModels.AssemblyInfo.cs
+C:\C#\LibraryApp\LibraryModels\obj\Debug\net10.0\LibraryModels.csproj.CoreCompileInputs.cache
+C:\C#\LibraryApp\LibraryModels\obj\Debug\net10.0\LibraryModels.sourcelink.json
+C:\C#\LibraryApp\LibraryModels\obj\Debug\net10.0\LibraryModels.dll
+C:\C#\LibraryApp\LibraryModels\obj\Debug\net10.0\refint\LibraryModels.dll
+C:\C#\LibraryApp\LibraryModels\obj\Debug\net10.0\LibraryModels.pdb
+C:\C#\LibraryApp\LibraryModels\obj\Debug\net10.0\ref\LibraryModels.dll
