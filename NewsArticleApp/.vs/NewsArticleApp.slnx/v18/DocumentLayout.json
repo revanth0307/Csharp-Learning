@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\C#\\NewsArticleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F5C723F-E75C-4AC6-A6DF-B95A1F1E1681}|NewsArticleApp\\NewsArticleApp.csproj|c:\\c#\\newsarticleapp\\newsarticleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F5C723F-E75C-4AC6-A6DF-B95A1F1E1681}|NewsArticleApp\\NewsArticleApp.csproj|solutionrelative:newsarticleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{507A0E5C-9247-FED5-DBB7-2D709F25E02A}|NewsArticleApp\\NewsArticleApp.csproj|c:\\c#\\newsarticleapp\\newsarticleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507A0E5C-9247-FED5-DBB7-2D709F25E02A}|NewsArticleApp\\NewsArticleApp.csproj|solutionrelative:newsarticleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +28,10 @@
               "RelativeDocumentMoniker": "NewsArticleApp\\Program.cs",
               "ToolTip": "C:\\C#\\NewsArticleApp\\NewsArticleApp\\Program.cs",
               "RelativeToolTip": "NewsArticleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-09T12:00:50.819Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
